@@ -8,6 +8,6 @@ Depending on the kind of tag tracking technology being targeted, specific reader
 
 For ID tags such as barcode/QR code, there is no need for reader hardware.  Software alone (e.g. Google's CameraX [ML Kit](https://developer.android.com/media/camera/camerax/mlkitanalyzer) API) would suffice.  
 
-Visit this [Genuine Blog](https://blog.genuine.com/2024/02/id-tag-video-recording-in-android/) for an overview of how to create a custom live video recorder app along with an ID tag reader, please visit the .
+Visit this [Genuine Blog](https://blog.genuine.com/2024/02/id-tag-video-recording-in-android/) for an overview of how to create a custom live video recorder app along with an ID tag reader.
 
 ---
